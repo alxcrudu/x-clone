@@ -14,7 +14,7 @@
 » Zustard
 
 **Infinite scroll:** \
-
+\
 `react-infinite-scroll-component` \
 `swr/infinite`
 

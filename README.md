@@ -12,7 +12,6 @@
 » MongoDB \
 » Zustard
 
-(soon...) \
 🚀 **Live**: [SOON](https://alexandrucrudu.tech/)
 
 <div align='center'>

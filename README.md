@@ -4,7 +4,7 @@
 
 # X clone
 
-**Project built with:** \\
+**Project built with:** \n
 » NextJS \
 » TypeScript \
 » TailwindCSS \

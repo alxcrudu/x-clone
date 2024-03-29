@@ -4,13 +4,17 @@
 
 # X clone
 
-**Project built with:**
-» NextJS
-» TypeScript
-» TailwindCSS
-» Prisma
-» MongoDB
-» Zustard
+**Project built with:** \
+» NextJS \
+» TypeScript \
+» TailwindCSS \
+» Prisma \
+» MongoDB \
+» Zustard \
 
-(soon...)
-🚀 **Live**: [See Live](https://alexandrucrudu.tech/)
+(soon...) \
+🚀 **Live**: [SOON](https://alexandrucrudu.tech/)
+
+<div align='center'>
+  <img src='/public/assets/images/demo.png'>
+</div>

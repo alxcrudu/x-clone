@@ -10,7 +10,7 @@
 » TailwindCSS \
 » Prisma \
 » MongoDB \
-» Zustard \
+» Zustard
 
 (soon...) \
 🚀 **Live**: [SOON](https://alexandrucrudu.tech/)

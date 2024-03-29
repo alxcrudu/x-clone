@@ -5,14 +5,19 @@
 # X clone
 
 **Project built with:** \
+\
 » NextJS \
 » TypeScript \
 » TailwindCSS \
 » Prisma \
 » MongoDB \
-» Zustard \
+» Zustard
 
-(soon...) \
+**Infinite scroll:** \
+\
+`react-infinite-scroll-component` \
+`swr/infinite` \
+\
 🚀 **Live**: [SOON](https://alexandrucrudu.tech/)
 
 <div align='center'>

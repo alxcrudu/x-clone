@@ -12,6 +12,10 @@
 » MongoDB \
 » Zustard
 
+**Infinite scroll:** \
+`react-infinite-scroll-component`
+`swr/infinite`
+
 🚀 **Live**: [SOON](https://alexandrucrudu.tech/)
 
 <div align='center'>
